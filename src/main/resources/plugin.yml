@@ -1,0 +1,4 @@
+name: xcrAuth
+main: pl.xcrafters.xcrauth.AuthPlugin
+version: 1.0
+author: defabricated
